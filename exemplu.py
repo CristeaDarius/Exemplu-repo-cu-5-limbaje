@@ -1,0 +1,2 @@
+print("Salut din Python!")
+
